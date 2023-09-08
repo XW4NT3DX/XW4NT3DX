@@ -1,8 +1,10 @@
 ## </br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FEE135&width=435&lines=HEY+THERE!)](https://git.io/typing-svg)
 
-<div align="center"><p><a href=$" target="_blank">
-            <img src="https://img.shields.io/badge/|-twitter-blue?logo=twitter&style=for-the-badge"/></a> <a href="https://twitter.com/elouarzazi_"><img
-            src="https://img.shields.io/badge/|-facebook-blue?logo=facebook&style=for-the-badge"/></a> <a href="$" target="_blank"><img
+<div align="center"><p>
+            <a href="https://twitter.com/elouarzazi_" target="_blank">
+            <img src="https://img.shields.io/badge/|-twitter-blue?logo=twitter&style=for-the-badge"/></a> 
+            <a href="$">
+            <img src="https://img.shields.io/badge/|-facebook-blue?logo=facebook&style=for-the-badge"/></a> <a href="$" target="_blank"><img
             src="https://img.shields.io/badge/|-instagram-blue?logo=instagram&style=for-the-badge"/></a> <a href="$"><img
             src="https://img.shields.io/badge/|-gmail-blue?logo=gmail&style=for-the-badge"/></a> <a href="$" target="_blank"><img
             src="https://img.shields.io/badge/%7C-linkedin-blue?style=for-the-badge&logo=linkedin"/></a> <a href="$"><img
