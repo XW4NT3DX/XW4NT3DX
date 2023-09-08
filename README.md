@@ -4,12 +4,17 @@
             <a href="https://twitter.com/elouarzazi_" target="_blank">
             <img src="https://img.shields.io/badge/|-twitter-blue?logo=twitter&style=for-the-badge"/></a> 
             <a href="https://www.facebook.com/ayoub.elouarzazi.92">
-            <img src="https://img.shields.io/badge/|-facebook-blue?logo=facebook&style=for-the-badge"/></a> <a href="$" target="_blank"><img
-            src="https://img.shields.io/badge/|-instagram-blue?logo=instagram&style=for-the-badge"/></a> <a href="$"><img
-            src="https://img.shields.io/badge/|-gmail-blue?logo=gmail&style=for-the-badge"/></a> <a href="$" target="_blank"><img
-            src="https://img.shields.io/badge/%7C-linkedin-blue?style=for-the-badge&logo=linkedin"/></a> <a href="$"><img
-            src="https://img.shields.io/badge/|-WhatsApp-blue?logo=WhatsApp&style=for-the-badge"/></a> <a href=$""_blank"><img
-            src="https://img.shields.io/badge/|-telegram-blue?logo=telegram&style=for-the-badge"/></a></p></div>
+            <img src="https://img.shields.io/badge/|-facebook-blue?logo=facebook&style=for-the-badge"/></a> 
+            <a href="www.instagram.com/a_y.2002.ou_b" target="_blank">
+            <img src="https://img.shields.io/badge/|-instagram-blue?logo=instagram&style=for-the-badge"/></a> 
+            <a href="$">
+            <img src="https://img.shields.io/badge/|-gmail-blue?logo=gmail&style=for-the-badge"/></a> 
+            <a href="$" target="_blank">
+            <img src="https://img.shields.io/badge/%7C-linkedin-blue?style=for-the-badge&logo=linkedin"/></a> 
+            <a href="$">
+            <img src="https://img.shields.io/badge/|-WhatsApp-blue?logo=WhatsApp&style=for-the-badge"/></a> 
+            <a href=$""_blank">
+            <img src="https://img.shields.io/badge/|-telegram-blue?logo=telegram&style=for-the-badge"/></a></p></div>
 </br>
  ✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩✩
  
